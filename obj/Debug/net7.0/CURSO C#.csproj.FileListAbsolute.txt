@@ -1,0 +1,15 @@
+/home/hudson/Documents/Dev/CURSO C#/bin/Debug/net7.0/CURSO C#
+/home/hudson/Documents/Dev/CURSO C#/bin/Debug/net7.0/CURSO C#.deps.json
+/home/hudson/Documents/Dev/CURSO C#/bin/Debug/net7.0/CURSO C#.runtimeconfig.json
+/home/hudson/Documents/Dev/CURSO C#/bin/Debug/net7.0/CURSO C#.dll
+/home/hudson/Documents/Dev/CURSO C#/bin/Debug/net7.0/CURSO C#.pdb
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.csproj.AssemblyReference.cache
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.AssemblyInfoInputs.cache
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.AssemblyInfo.cs
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.csproj.CoreCompileInputs.cache
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.dll
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/refint/CURSO C#.dll
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.pdb
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/CURSO C#.genruntimeconfig.cache
+/home/hudson/Documents/Dev/CURSO C#/obj/Debug/net7.0/ref/CURSO C#.dll
